@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="多线程断点续传"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="http多线程下载"/>
+	<classpathentry kind="src" path="断点续传Java版(原)"/>
+	<classpathentry kind="src" path="一个简单的多线程、断点下载Java程序"/>
+	<classpathentry kind="src" path="网络下载管理器"/>
+	<classpathentry kind="src" path="多线程下载"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
