@@ -19,7 +19,7 @@ import java.net.UnknownHostException;
 
 class Client {
 	public static void main(String[] args) {
-		MyFrame fram = new MyFrame();
+		new MyFrame();
 	}
 }
 
